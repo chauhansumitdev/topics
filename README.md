@@ -1,3 +1,3 @@
 # UserAuth
 
-A user authentication system built using `nodejs`, `express` and `mysql`.
+A user authentication system built using `nodejs`, `express` and `mongodB`.
