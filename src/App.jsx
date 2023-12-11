@@ -1,12 +1,13 @@
+import Hello from "./Hello";
 
-function App() {
+const App = () => {
 
-  
   return (
-    <>
-    check
-    </>
-  );
+    <div>
+      <Hello></Hello>
+    </div>
+  )
 }
 
 export default App;
+
